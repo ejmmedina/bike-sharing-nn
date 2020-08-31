@@ -11,4 +11,4 @@ pre-processing techniques for the self-coded NN.
 
 ##### Report and analysis
 
-If you have any questions regarding this study or wish to have a copy of the report, please send me a message via <a href="mailto:elijahjustinmedina@gmail.com">e-mail</a> or <a href="https://www.linkedin.com/in/elijah-justin-medina/">LinkedIn</a>.
+If you have any questions regarding this study or wish to have a copy of the report, please send me a message via <a href="mailto:elijahjustinmedina@gmail.com">e-mail</a> or <a href="https://www.linkedin.com/in/elijah-justin-medina/">LinkedIn</a>. The code used for this analysis is available <a href="https://github.com/ejmmedina/bike-sharing-nn/blob/master/bike-sharing.md">here</a>.
